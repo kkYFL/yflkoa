@@ -1,0 +1,24 @@
+{
+  "name": "yflkoa",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkYFL/yflkoa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkYFL/yflkoa/issues"
+  },
+  "homepage": "https://github.com/kkYFL/yflkoa#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
